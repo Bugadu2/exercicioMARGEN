@@ -1,0 +1,19 @@
+.container {
+    background-color: red;
+    margin: 70px;
+    padding: 100px;
+    .pacote {
+      background-color: green;
+      margin: 40px;
+      .embalagem {
+        background-color: blue;
+        margin: 50px;
+        .produto {
+          background-color: yellow;
+          margin: 100px;
+          /* ❤️ */
+        }
+      }
+    }
+  }
+  

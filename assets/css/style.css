@@ -1,1 +1,19 @@
-/*# sourceMappingURL=style.css.map */
+@charset "UTF-8";
+.container {
+    background-color: red;
+    margin: 40px;
+    padding: 40px;
+  }
+  .container .pacote {
+    background-color: green;
+    padding: 40px;
+  }
+  .container .pacote .embalagem {
+    background-color: blue;
+    margin: 40px;
+    padding: 40px;
+  }
+  .container .pacote .embalagem .produto {
+    background-color: yellow;
+    /* ❤️ */
+  }/*# sourceMappingURL=style.css.map */
